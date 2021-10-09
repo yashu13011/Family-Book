@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}  
+#p1{
+    word-spacing: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+#album{
+    border-style: solid;
+    border-color: red;
+    padding: 5px;
+    width: 450px;
+    height: 450px;
+}
